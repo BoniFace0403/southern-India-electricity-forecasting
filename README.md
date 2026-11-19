@@ -4,3 +4,5 @@ Daily electricity supply forecasting across six Southern Indian areas using Pyth
 [Read the full research report (PDF)](./Southern_India_Electricity_Research_Report.pdf)
 
 [Open the interactive forecast explorer](https://boniface0403.github.io/southern-India-electricity-forecasting/index.html)
+
+[Download the Southern India electricity dataset](./southern_india_daily_electricity.csv)
